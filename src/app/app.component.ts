@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  pageTitle: string = `My Acme Product Management (Module 8 Dependency Injection)`;
+  pageTitle: string = `My Acme Product Management (Module 8 - Services and dependency injection)`;
 }
